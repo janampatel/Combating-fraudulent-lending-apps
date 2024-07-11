@@ -20,7 +20,6 @@ Follow the [MobSF installation guide](https://github.com/MobSF/Mobile-Security-F
 
 ```
 
-## Contributing
+# Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
----
