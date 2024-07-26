@@ -13,9 +13,9 @@ This repository contains the code and documentation for our project presented at
 Follow the [MobSF installation guide](https://github.com/MobSF/Mobile-Security-Framework-MobSF) to set up the Mobile Security Framework.
 
 ## Usage
-1. Run v0_scraping.ipynb and download apks
+1. Run `v0_scraping.ipynb` and download apks
 2. Ensure MobSF is running, and input apk files to it to get desired report in form of json or pdf.
-3. Run v2_clustering_and_xai to perform clustering and generate explanations
+3. Run `v2_clustering_and_xai` to perform clustering and generate explanations
     
 
 ```
